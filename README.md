@@ -67,3 +67,5 @@ The analysis focuses on:
 - Sales by hour
 - Peak sales periods
 
+ Dashboard.png.png
+
